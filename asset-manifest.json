@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Signup-React-Project/static/css/main.3982bb5f.css",
+    "main.js": "/Signup-React-Project/static/js/main.69b2121b.js",
+    "static/js/453.11158e2a.chunk.js": "/Signup-React-Project/static/js/453.11158e2a.chunk.js",
+    "index.html": "/Signup-React-Project/index.html",
+    "main.3982bb5f.css.map": "/Signup-React-Project/static/css/main.3982bb5f.css.map",
+    "main.69b2121b.js.map": "/Signup-React-Project/static/js/main.69b2121b.js.map",
+    "453.11158e2a.chunk.js.map": "/Signup-React-Project/static/js/453.11158e2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3982bb5f.css",
+    "static/js/main.69b2121b.js"
+  ]
+}
